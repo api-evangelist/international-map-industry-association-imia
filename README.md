@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-International Map Industry Association (IMIA) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://imiamaps.org/
+The International Map Industry Association (IMIA) is a global nonprofit organization that connects map publishers, geospatial companies, data providers, retailers, and technology partners. Through membership, events, sponsorship opportunities, and industry collaborations, IMIA promotes the business of maps, supports standards, and fosters networking among mapping professionals worldwide.
+
+**Areas:** Company · Mapping · Geospatial · Nonprofit · Industry
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://imiamaps.org/)
+- [Blog](https://imiamaps.org/category/blog/)
+- [Terms of service](https://imiamaps.org/terms-of-use/)
+- [Privacy policy](https://imiamaps.org/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/international-map-industry-association-imia/](https://apis.io/providers/international-map-industry-association-imia/).
